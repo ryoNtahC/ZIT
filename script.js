@@ -138,7 +138,7 @@ const projects = [
     name: "Portfólio",
     desc: "Úlohou je vytvoriť portfólio obsahujúce životopis a projekty, ktoré sme tento semester vytvorili pomocou HTML, CSS a JavaScriptu.",
     image: "images/ZIT2.png",
-    github: "https://github.com/yourusername/sietovy-projekt",
+    github: "https://github.com/ryoNtahC/ZIT",
     category: "zit"
   },
 ];
